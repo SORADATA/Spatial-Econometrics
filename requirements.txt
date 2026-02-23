@@ -1,0 +1,9 @@
+numpy
+pandas
+geopandas
+matplotlib
+
+libpysal
+esda
+splot
+spreg
